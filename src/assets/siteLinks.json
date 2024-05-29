@@ -23,5 +23,10 @@
      "icon": "Rocketchat",
     "name": "Chat-GPT",
     "link": "https://gpt.baolongee.top/"
+  },
+    {
+     "icon": "Rocketchat",
+    "name": "copoilt-gpt4",
+    "link": "https://ai.baolongee.top/"
   }
 ]
